@@ -1,0 +1,464 @@
+@font-face {
+font-family: "gloss";
+src: url("../assets/fonts/Gloss_And_Bloom.ttf");
+}
+@font-face{
+    font-family: "special";
+src: url("../assets/fonts/SpecialRequest.ttf");
+
+}
+@font-face{
+    font-family: "twisted";
+src: url("../assets/fonts/TwistedSystem.otf");
+
+}
+@font-face{
+    font-family: "optimus";
+src: url("../assets/fonts/OptimusPrinceps.ttf");
+
+}
+@font-face{
+    font-family: "aceituna";
+src: url("../assets/fonts/Aceituna.otf");
+
+}
+.shs
+{   position: relative;
+    padding: 70px 0;
+    font-family:"gloss";
+    font-size: 50px;
+    color: black;
+    text-shadow: 2px 2px #3b3b3b;
+    text-align: center;
+    line-height: 90px;
+    word-spacing: 30px;
+
+}
+
+
+.academic_track
+{
+    
+   
+    color: black;
+    font-size: 60px;
+    font-family: "optimus";
+    text-shadow: 2px 2px #3b3b3b;
+    text-align: center;
+}
+.acad_desc
+{
+    color: black;
+    text-align: center;
+    font-size: 33px;
+    font-family: "aceituna";
+    text-shadow: #222222;
+
+}
+
+.gasbox
+{
+
+    margin: 1 auto;
+    background-image: url("../assets/gas.jpg");
+    background-color:  #C0C0C0 ;
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+.gas
+{
+
+    font-size: 31px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    padding: 10px 0;
+
+}
+.gas_desc
+{
+
+    font-family: "twisted";
+    font-size: 24px;
+     color: black;
+    line-height: 22px;
+}
+.humssbox{
+
+    background-image: url("../assets/sea.jpg");
+    margin: 1 auto;
+    background-color:  #C0C0C0 ;
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+.humss
+{
+
+    font-size: 30px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+
+}
+.humss_desc
+{
+
+    font-family: "twisted";
+    font-size: 24px;
+    color: black;
+    line-height: 26px;
+
+}
+.stembox
+{
+    margin: 5 auto;
+    background-image: url("../assets/moon.jpg");
+    background-color:  #C0C0C0 ;
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+.stem
+{
+
+   font-size: 22px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    line-height: 35px;
+
+}
+.stem_desc
+{
+
+    font-family: "twisted";
+    font-size: 22px;
+    color: black;
+    line-height: 20px;
+}
+.abmbox
+{
+   
+    margin: 1 auto;
+    background-color:  #C0C0C0 ;
+    background-image: url("../assets/float.jpg");
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+
+.abm
+{
+
+    font-size: 26px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    padding: 4px 0;
+    line-height: 35px;
+}
+.abm_desc
+{
+
+    font-family: "twisted";
+    font-size: 24px;
+    color: black;
+    line-height: 25px;
+}
+
+.tvl_track
+{
+    font-size: 45px;
+    font-family: "optimus";
+    text-shadow: 2px 2px #3b3b3b;
+    color: black;
+    padding: 50px 0;
+}
+.tvl_desc
+{
+    color: black;
+    text-align: center;
+    font-size: 39px;
+    font-family: "aceituna";
+    text-shadow: #222222;
+
+}
+
+.agribox
+{
+
+    margin: 1 auto;
+    background-color:  #C0C0C0 ;
+    background-image: url("../assets/light.jpg");
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+
+.agri
+{
+
+    font-size: 34px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    padding: 10px 0;
+    line-height: 40px;
+}
+.agri_desc
+{
+    font-family: "twisted";
+    font-size: 27px;
+    color: black;
+    line-height: 24px;
+}
+
+.ecobox
+{
+
+    margin: 1 auto;
+    background-image: url("../assets/pillow.jpg");
+    background-color:  #C0C0C0 ;
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+.eco
+{
+   font-size: 30px;
+    font-family: "gloss";
+    color:black;
+    padding: 10px 0;
+    line-height: 35px;
+    text-align: center;
+}
+.eco_desc
+{
+
+    font-family: "twisted";
+    font-size: 27px;
+    color: black;
+    line-height: 26px;
+}
+.industrialbox
+{
+
+    margin: 1 auto;
+    background-image: url("../assets/cloud.jpg");
+    background-color:  #C0C0C0 ;
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+.industrial
+{
+
+    font-size: 35px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    padding: 10px 0;
+    line-height: 35px;
+    padding: 60px 0;
+}
+.industrial_desc
+{
+
+    font-family: "twisted";
+    font-size: 29px;
+    color: black;
+    line-height: 25px;
+}
+.ictbox
+{
+
+    margin: 1 auto;
+    background-color:  #C0C0C0 ;
+     background-image: url("../assets/cloud.jpg");
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+
+.ict
+{
+
+    font-size: 35px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    padding: 20px 0;
+    line-height: 45px;
+
+}
+.ict_desc
+{
+
+    font-family: "twisted";
+    font-size: 30px;
+    color: black;
+    line-height: 30px;
+    padding: 20px 0;
+}
+.sports_track
+{
+    font-size: 50px;
+    font-family: "optimus";
+    text-shadow: 2px 2px #3b3b3b;
+    color: black;
+    padding: 30px 0;
+    text-align: center;
+}
+.sports_desc
+{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: "aceituna";
+    text-shadow: #222222;
+}
+
+
+.sposcibox
+{
+
+    margin: 1 auto;
+     background-image: url("../assets/curtain.jpg");
+    background-color:  #C0C0C0 ;
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+.sposci
+{
+
+   font-size: 45px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    padding: 20px 0;
+
+   }
+.sposci_desc
+{
+
+    font-family: "twisted";
+    font-size: 29px;
+    color: black;
+    line-height: 26px;
+    text-align: center;
+}
+
+.therapybox
+{
+
+    margin: 1 auto;
+     background-image: url("../assets/cl.jpg");
+    background-color:  #C0C0C0 ;
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+.therapy
+{
+
+    font-size: 45px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    padding: 20px 0;
+
+   }
+.therapy_desc
+{
+    font-family: "twisted";
+    font-size: 30px;
+    color: black;
+    line-height: 26px;
+    text-align: center;
+}
+.arts_track
+{
+    font-size: 40px;
+    font-family: "optimus";
+    text-shadow: 2px 2px #3b3b3b;
+    color: black;
+    padding: 40px 0;
+    text-align: center;
+}
+.arts_desc
+{
+
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: "aceituna";
+    text-shadow: #222222;
+
+
+}
+.performbox
+{
+
+    margin: 1 auto;
+     background-image: url("../assets/sea.jpg");
+    background-color:  #C0C0C0 ;
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+.perform
+{
+   font-size: 45px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    padding: 20px 0;
+
+
+   }
+.perform_desc
+{
+
+    font-family: "twisted";
+    font-size: 25px;
+    color: black;
+    line-height: 23px;
+    text-align: center;
+}
+
+
+
+
+
+.visualbox
+{
+
+    margin: 1 auto;
+     background-image: url("../assets/float.jpg");
+    background-color:  #C0C0C0 ;
+    border-radius: 30px ;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #222222;
+}
+.visual
+{
+
+   font-size: 45px;
+    font-family: "gloss";
+    color:black;
+    text-align: center;
+    padding: 20px 0;
+    line-height: 40px;
+   }
+.visual_desc
+{
+
+    font-family: "twisted";
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    line-height: 22px;
+}
