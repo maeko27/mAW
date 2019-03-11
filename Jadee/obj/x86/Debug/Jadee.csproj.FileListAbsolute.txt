@@ -1,0 +1,8 @@
+c:\users\rex\documents\visual studio 2010\Projects\Jadee\Jadee\obj\x86\Debug\Jadee.Form1.resources
+c:\users\rex\documents\visual studio 2010\Projects\Jadee\Jadee\obj\x86\Debug\Jadee.Properties.Resources.resources
+c:\users\rex\documents\visual studio 2010\Projects\Jadee\Jadee\obj\x86\Debug\Jadee.csproj.GenerateResource.Cache
+c:\users\rex\documents\visual studio 2010\Projects\Jadee\Jadee\bin\Debug\Jadee.exe
+c:\users\rex\documents\visual studio 2010\Projects\Jadee\Jadee\bin\Debug\Jadee.pdb
+c:\users\rex\documents\visual studio 2010\Projects\Jadee\Jadee\obj\x86\Debug\Jadee.exe
+c:\users\rex\documents\visual studio 2010\Projects\Jadee\Jadee\obj\x86\Debug\Jadee.pdb
+c:\users\rex\documents\visual studio 2010\Projects\Jadee\Jadee\obj\x86\Debug\Jadee.Form3.resources
